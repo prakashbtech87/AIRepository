@@ -1,0 +1,7 @@
+com/prakashk/botusingchatgpt/BotUsingChatgptApplication.class
+com/prakashk/botusingchatgpt/config/OpenAIConfig.class
+com/prakashk/botusingchatgpt/dto/ChatGPTResponse$Choice.class
+com/prakashk/botusingchatgpt/dto/ChatGPTResponse.class
+com/prakashk/botusingchatgpt/controller/ChatBotController.class
+com/prakashk/botusingchatgpt/dto/Message.class
+com/prakashk/botusingchatgpt/dto/ChatGPTRequest.class
