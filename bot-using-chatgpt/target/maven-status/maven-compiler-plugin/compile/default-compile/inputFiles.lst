@@ -1,6 +1,6 @@
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/Message.java
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/config/OpenAIConfig.java
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/BotUsingChatgptApplication.java
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/ChatGPTRequest.java
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/ChatGPTResponse.java
-/Users/prakashkaruppusamy/MacDrive/IJfolder/REPOS/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/controller/ChatBotController.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/controller/ChatBotController.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/Message.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/BotUsingChatgptApplication.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/config/OpenAIConfig.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/ChatGPTResponse.java
+/Users/prakashkaruppusamy/MacDrive/IJfolder/AIworkspace/bot-using-chatgpt/src/main/java/com/prakashk/botusingchatgpt/dto/ChatGPTRequest.java
